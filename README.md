@@ -29,7 +29,7 @@ A modern, responsive e-commerce landing page designed in Figma and built with Re
 
 ## 🚀 Getting Started
 ```bash
-git clone https://github.com/YOUR_USERNAME/amirhossein-shop.git
+git clone https://github.com/AmirHosseinRezaaie/Store_page_landing-with-Figma
 cd amirhossein-shop
 npm install
 npm run dev
