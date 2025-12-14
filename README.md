@@ -1,6 +1,6 @@
-# Store Landing Page 🛍️
+# AmirHossein Shop 🛍️
 
-A modern, responsive e-commerce landing page initially designed in Figma and built with React + TypeScript.
+A modern, responsive e-commerce landing page – designed in Figma and built with React + TypeScript + Tailwind CSS.
 
 <div align="center">
 
@@ -8,6 +8,7 @@ A modern, responsive e-commerce landing page initially designed in Figma and bui
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Shadcn/UI](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
@@ -15,25 +16,25 @@ A modern, responsive e-commerce landing page initially designed in Figma and bui
 <br/>
 
 ## ✨ Features
-- Clean and modern UI with a professional store aesthetic
-- Fully responsive design (desktop & mobile)
-- Multi-page structure: Home, About, and Product Detail
-- SVG icons and custom components for better reusability
-- Type-safe development with TypeScript
-- Fast development and build with Vite
-- Styled using Tailwind CSS + custom theme
+- Clean, modern, and fully responsive design
+- Beautiful, accessible components powered by **shadcn/ui** and **Radix UI**
+- Icon library with **lucide-react**
+- Client-side routing with **react-router-dom**
+- Multiple pages: Home, About, Product Detail
+- Smooth animations and interactive elements
+- Type-safe code with TypeScript
+- Fast and flexible styling with Tailwind CSS
 
 ## 🛠️ Tech Stack
-- **React** + **TypeScript** + **Vite**
-- **Tailwind CSS** for styling
-- Custom CSS modules (index.css, theme.css)
-- SVG assets and reusable UI components
-- Initial prototype designed in **Figma**
+- **Vite** + **React** + **TypeScript**
+- **Tailwind CSS** + **shadcn/ui**
+- **lucide-react** for icons
+- **react-router-dom** for navigation
+- Initial design created in **Figma**
 
 ## 🚀 Getting Started
-
 ```bash
 git clone https://github.com/AmirHosseinRezaaie/Store_page_landing-with-Figma.git
 cd Store_page_landing-with-Figma
 npm install
-npm run dev
+npx vite
