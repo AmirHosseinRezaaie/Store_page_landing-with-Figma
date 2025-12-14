@@ -1,44 +1,35 @@
-# امیرحسین شاپ 🛍️
+# AmirHossein Shop 🛍️
 
-![Banner](https://via.placeholder.com/1200x600.png?text=AmirHossein+Shop+Banner)  
-*صفحه فرود حرفه‌ای فروشگاه آنلاین - طراحی شده با Figma و کدنویسی با React + TypeScript*
+A modern, responsive e-commerce landing page designed in Figma and built with React + TypeScript.
 
 <div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Tailwind_C.CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 </div>
 
 <br/>
 
-## 📸 پیش‌نمایش پروژه
+## ✨ Features
+- Clean and modern minimalist design
+- Fully responsive (mobile-first approach)
+- Smooth animations and interactive elements
+- Type-safe code with TypeScript
+- Fast styling with Tailwind CSS (or your chosen styling method)
+- Clean, maintainable project structure
 
-<div align="center">
-  <img src="./public/screenshot-desktop.png" alt="Desktop View" width="100%"/>
-  <br/><br/>
-  <img src="./public/screenshot-mobile.png" alt="Mobile View" width="300"/>
-</div>
-
-> صفحه کاملاً ریسپانسیو و بهینه‌سازی شده برای موبایل و دسکتاپ
-
-## ✨ ویژگی‌ها
-- طراحی مدرن و مینیمال
-- کاملاً ریسپانسیو (Mobile-First)
-- انیمیشن‌های نرم و جذاب
-- تایپ‌سیف با TypeScript
-- استایل‌دهی سریع با Tailwind CSS
-- ساختار تمیز و قابل توسعه
-
-## 🛠️ تکنولوژی‌های استفاده شده
+## 🛠️ Tech Stack
 - **React** + **TypeScript**
-- **Tailwind CSS** یا **CSS Modules** (بسته به چیزی که استفاده کردی)
-- **Vite** (برای بیلد سریع - اگر ازش استفاده کردی)
-- طراحی اولیه در **Figma**
+- **Tailwind CSS** (or CSS Modules/SCSS – update if different)
+- **Vite** (for fast development – update if using Create React App/Next.js)
+- Initial design crafted in **Figma**
 
-## 🚀 نحوه اجرا محلی
+## 🚀 Getting Started
 ```bash
-git clone https://github.com/USERNAME/amirhossein-shop.git
+git clone https://github.com/YOUR_USERNAME/amirhossein-shop.git
 cd amirhossein-shop
 npm install
 npm run dev
