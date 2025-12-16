@@ -20,10 +20,7 @@ A modern, responsive e-commerce landing page – designed in Figma and built wit
 - Beautiful, accessible components powered by **shadcn/ui** and **Radix UI**
 - Icon library with **lucide-react**
 - Client-side routing with **react-router-dom**
-- Multiple pages: Home, About, Product Detail
-- Smooth animations and interactive elements
-- Type-safe code with TypeScript
-- Fast and flexible styling with Tailwind CSS
+
 
 ## 🛠️ Tech Stack
 - **TypeScript** + **React** + **Vite**
