@@ -25,12 +25,7 @@ A modern, responsive e-commerce landing page – designed in Figma and built wit
 - Type-safe code with TypeScript
 - Fast and flexible styling with Tailwind CSS
 
-## 🛠️ Tech Stack
-- **TypeScript** + **React** + **Vite**
-- **Tailwind CSS** + **shadcn/ui**
-- **lucide-react** for icons
-- **react-router-dom** for navigation
-- Initial design created in **Figma**
+
 
 ## 🚀 Getting Started
 ```bash
