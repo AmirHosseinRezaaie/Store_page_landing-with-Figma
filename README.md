@@ -27,8 +27,7 @@ A modern, responsive e-commerce landing page – designed in Figma and built wit
 
 ## 🛠️ Tech Stack
 - **TypeScript** + **React** + **Vite**
-- **Tailwind CSS** + **shadcn/ui**
-- **lucide-react** for icons
+
 - **react-router-dom** for navigation
 - Initial design created in **Figma**
 
