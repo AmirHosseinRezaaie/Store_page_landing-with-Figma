@@ -1,40 +1,43 @@
-# AmirHossein Shop 🛍️
 
-A modern, responsive e-commerce landing page – designed in Figma and built with React + TypeScript + Tailwind CSS.
 
-<div align="center">
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Shadcn/UI](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+Top Recommendations
 
-</div>
+Redmi Note 14 Pro+ 5G (Best overall mid-range pick)
+6.67-inch 1.5K AMOLED display (120Hz)
+Up to 200MP main camera
+Powerful MediaTek Dimensity processor
+Massive battery with fast charging
+IP68 water/dust resistance
+It's praised for amazing camera quality, smooth performance, and premium feel at a mid-range price. Perfect if you want flagship-like features without the high cost.
 
-<br/>
 
-## ✨ Features
-- Clean, modern, and fully responsive design
-- Beautiful, accessible components powered by **shadcn/ui** and **Radix UI**
-- Icon library with **lucide-react**
-- Client-side routing with **react-router-dom**
-- Type-safe code with TypeScript
-- Fast and flexible styling with Tailwind CSS
-- Multiple pages: Home, About, Product Detail
-- Smooth animations and interactive elements
+mi.comamazon.comandroidcentral.com
 
-## 🛠️ Tech Stack
-- **TypeScript** + **React** + **Vite**
-- **react-router-dom** for navigation
-- - **Tailwind CSS** + **shadcn/ui**
-- **lucide-react** for icons
-- Initial design created in **Figma**
 
-## 🚀 Getting Started
-```bash
-git clone https://github.com/AmirHosseinRezaaie/Store_page_landing-with-Figma.git
-cd Store_page_landing-with-Figma
-npm install
-npx vite
+
+Redmi Note 14 Pro 5G (Best value for money)
+Similar high-refresh AMOLED screen
+Great Dimensity 7300-Ultra chipset
+Excellent battery life
+Solid all-rounder
+Reviews call it one of the most balanced budget/mid-range phones in 2025 – fantastic display, performance, and durability.
+
+
+amazon.comyoutube.comwalmart.com
+
+
+
+POCO X7 Pro (Best for gaming/performance)
+Often a rebranded/tweaked Redmi Note 14 Pro
+Flagship-level chipset (Dimensity 8400-Ultra or similar)
+Super smooth for games
+Big battery
+Aggressive pricing
+If you game a lot or want raw power, this is the one – it's basically a Redmi in disguise but optimized for speed.
+
+
+po.coebay.comgsmarena.com
+
+
+The newer Redmi Note 15 series just launched globally (including Pro and Pro+ models with even bigger batteries and upgraded cameras), so if you're buying now, check those too – they're the latest and likely even better value.
