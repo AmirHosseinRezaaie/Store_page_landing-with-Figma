@@ -1,16 +1,16 @@
 # AmirHossein Shop 🛍️✨
 
-**صفحه محصول مدرن و جذاب فروشگاه آنلاین – تبدیل شده از طراحی فیگما به HTML و CSS خالص**
+**A modern and stunning e-commerce product page – faithfully converted from Figma design to pure HTML & CSS**
 
 <div align="center">
 
 ![Preview 1](https://files.catbox.sh/0z1k5e.jpg)  
-*نمای حرفه‌ای و مینیمال از فروشگاه AmirHossein با محصولات متنوع*
+*Professional and minimalist showcase of AmirHossein Shop with diverse products*
 
 <br/>
 
 ![Preview 2](https://files.catbox.sh/9v8p3d.jpg)  
-*طراحی شیک و مدرن صفحه محصول با تمرکز بر تجربه کاربری عالی*
+*Elegant and modern product page design focused on exceptional user experience*
 
 <br/><br/>
 
@@ -24,29 +24,29 @@
 
 <br/>
 
-## ✨ ویژگی‌های جذاب
-- طراحی **کاملاً ریسپانسیو** (موبایل تا دسکتاپ)
-- صفحه محصول شیک و حرفه‌ای با جزئیات کامل
-- پشتیبانی کامل از **RTL** (مناسب زبان فارسی)
-- فقط **HTML + CSS خالص** – بدون جاوااسکریپت یا فریم‌ورک
-- فوق‌العاده سبک و سریع
-- قابلیت شخصی‌سازی آسان رنگ‌ها، فونت و محتوا
-- بازسازی دقیق و زیبا از طراحی اصلی فیگما
-- گالری تصاویر، مشخصات فنی، نظرات و محصولات مرتبط
+## ✨ Awesome Features
+- **Fully responsive** layout (mobile to desktop)
+- Beautiful and professional product detail page
+- Full **RTL support** (perfect for Persian/Farsi)
+- Pure **HTML + CSS only** – no JavaScript or frameworks needed
+- Extremely lightweight and lightning-fast
+- Easy to customize colors, fonts, and content
+- Pixel-perfect recreation of the original Figma design
+- Image gallery, technical specs, customer reviews, and related products
 
-## 🛠️ تکنولوژی‌های استفاده شده
-- **HTML5** – ساختار معنادار و سئوفرندلی
-- **CSS3** – با Flexbox، Grid و متغیرهای سفارشی
-- طراحی اولیه در **Figma**
+## 🛠️ Tech Stack
+- **HTML5** – semantic and SEO-friendly structure
+- **CSS3** – powered by Flexbox, Grid, and custom properties
+- Original design crafted in **Figma**
 
-## 🚀 راه‌اندازی سریع
+## 🚀 Quick Start
 
-فقط فایل‌ها رو دانلود کن و `index.html` رو باز کن!
+Just download the files and open `index.html` in your browser!
 
 ```bash
 git clone https://github.com/AmirHosseinRezaaie/Store_page_landing-with-Figma.git
 cd Store_page_landing-with-Figma
-# باز کردن صفحه
+# Open the page
 open index.html          # macOS
 start index.html         # Windows
 xdg-open index.html      # Linux
