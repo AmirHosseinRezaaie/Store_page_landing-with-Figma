@@ -27,9 +27,19 @@ Original design created in Figma
 
 🚀 Getting Started
 Just download or clone the files and open index.html in your browser!
-Bashgit clone https://github.com/AmirHosseinRezaaie/Store_page_landing-with-Figma.git
+git clone https://github.com/AmirHosseinRezaaie/Store_page_landing-with-Figma.git
 cd Store_page_landing-with-Figma
-# Open index.html in your browser
+Open index.html in your browser
 open index.html   # macOS
 start index.html  # Windows
 xdg-open index.html  # Linux
+Or simply copy the two files (index.html & style.css) into your project.
+📱 Preview
+Perfect for:
+
+Static product landing pages
+Portfolio showcases
+Quick prototypes
+Learning HTML/CSS structure from design
+
+Feel free to customize colors, add more products, or extend it into a full store!
